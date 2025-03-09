@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+    background-image: url(https://imgs.search.brave.com/s061_H9Eu25gewAoUU8uYNJ9z7edy-1AbylIpmzIIQA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9hYnN0cmFjdC1i/YWNrZ3JvdW5kLW1h/Y3JvLXBob3RvZ3Jh/cGgtc3VyZmFjZS1z/b2FwLWJ1YmJsZV8y/NjgxOTItNTg2NS5q/cGc_c2VtdD1haXNf/aHlicmlk);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  h1, p {
+    text-align: center;
+    font-family: Georgia;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    max-width: 500px;
+    width: 20em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  #img-div {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    display: inline-block;
+  }
+  
+  #image {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    border-radius: 4px;
+    display: block;
+  }
+  
+  figcaption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+  }
+  
+  #image2 {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  #image3 {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  #info-text {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    max-width: 1000px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h2, h3 {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    max-width: 500px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  ul {
+    list-style: none;
+  }
